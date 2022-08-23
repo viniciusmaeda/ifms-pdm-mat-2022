@@ -40,4 +40,4 @@ Abrir o VS Code na pasta do projeto
 
 Criar um projeto React Native (Expo)
 
-> expo init <nome-do-projeto>
+> expo init **nome-do-projeto**
