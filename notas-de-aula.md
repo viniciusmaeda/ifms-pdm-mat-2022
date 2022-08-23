@@ -51,3 +51,7 @@ Abrir um AVD
 Criar um projeto React Native (Expo)
 
 > expo init **nome-do-projeto**
+
+Rodar o projeto React Native no AVD
+
+> expo start --android
