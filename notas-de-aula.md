@@ -17,11 +17,11 @@ Listar o conteúdo de uma pasta
 
 Criar uma pasta em branco
 
-> mkdir
+> mkdir **nome-da-nova-pasta**
 
-Remover uma pasta vazia
+Remover uma pasta
 
-> rm
+> rmdir **nome-da-pasta**
 
 Abrir o VS Code na pasta do projeto
 
