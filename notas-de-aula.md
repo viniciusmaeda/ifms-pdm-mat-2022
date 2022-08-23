@@ -36,6 +36,16 @@ Abrir o VS Code na pasta do projeto
    > npm install --global expo-cli
 5. Expo Go (visualizador no celular) -> instalar no celular
 
+## Comandos para abrir uma AVD fora do Android Studio
+
+Listar as AVDs (Android Virtual Device)
+
+> emulator -list-avds
+
+Abrir um AVD
+
+> emulator -avd **nome-da-avd**
+
 ## Comandos utilizados para criar um projeto
 
 Criar um projeto React Native (Expo)
